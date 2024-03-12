@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaseAdapterStudy</string>
+
+    <string name="box">Корзина</string>
+    <string name="header_title">Header</string>
+    <string name="footer_title">Footer</string>
+
+</resources>
