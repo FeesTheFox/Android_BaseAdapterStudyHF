@@ -36,9 +36,7 @@ public class MainActivity extends AppCompatActivity {
         // setting the list
         ListView lvMain = (ListView) findViewById(R.id.lvMain);
         lvMain.addHeaderView(header1);
-        lvMain.addHeaderView(header2, "some text for header 2", false);
         lvMain.addFooterView(footer1);
-        lvMain.addFooterView(footer2, "some text for footer 2", false);
         lvMain.setAdapter(boxAdapter);
     }
 
